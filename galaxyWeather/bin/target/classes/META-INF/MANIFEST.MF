@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: davgomez4
+Build-Jdk: 17
+Implementation-Title: galaxyWeather
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.galaxyWeather
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/galaxyWeather
+Created-By: Maven Integration for Eclipse
+
